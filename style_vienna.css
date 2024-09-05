@@ -2,22 +2,22 @@ body {
     background-color: bisque;
     
 }
-
+/* huvudrubrik */
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(139, 0, 0);
 }
-
+/* rubrik */
 h3 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(139, 0, 0);
 }
-
+/* text(random text) */
 p {
     
     color: rgb(18, 110, 64);
 }
-
+/* pre-formated text(stor text) */
 pre {
     color:rgb(255, 0, 0);
     font: 500;
